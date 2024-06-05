@@ -25,9 +25,10 @@
 * EDA: Data visualization techniques such as histograms, scatter plots, and box plots
 
 **Calorie Analysis using Pie Chart:**
-![Screenshot 2024-05-16 224237](https://github.com/Prakruthi-B-R/Smart-Food-Choice/assets/164649454/09853744-6cf8-4184-ba59-fb5551ec2a52)
+![Screenshot 2024-06-05 150356](https://github.com/Prakruthi-B-R/Smart-Food-Choice/assets/164649454/6b785458-04be-457a-9cd3-7401097d3125)
 
 
-**Correlation Analysis**
-![Screenshot 2024-05-16 224134](https://github.com/Prakruthi-B-R/Smart-Food-Choice/assets/164649454/6d1c6eb5-b89b-4abe-89dd-476aece49919)
+
+![Screenshot 2024-06-05 150530](https://github.com/Prakruthi-B-R/Smart-Food-Choice/assets/164649454/46f7a098-6acb-41a3-a9e9-40e219ca217f)
+
 
